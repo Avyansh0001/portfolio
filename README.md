@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://amine.im">
-    <img src="https://amine.im/favicon.svg" height="96">
+  <a href="https://avyanshralph.vercel.app">
+    <img src="https://cdn.discordapp.com/attachments/902599940096798831/909873385868259358/me.jpg" height="96">
     <h3 align="center">amine.im</h3>
   </a>
   <p align="center">My Personal Portfolio Next.JS TailwindCSS</p>
