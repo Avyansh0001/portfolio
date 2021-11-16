@@ -96,7 +96,7 @@ const Navigation = () => {
                     )}
                   </div>
                   <a href={data?.html_url}>
-                    <p className="text-center font-bold">Amine Ouhani</p>
+                    <p className="text-center font-bold">Avyansh Ralph</p>
                   </a>
                   <div className="flex flex-col space-y-2">
                     <button className="inline-flex items-center justify-center bg-gray-200 dark:bg-gray-900 bg-opacity-70 dark:bg-opacity-70 rounded-2xl p-2 hover:animate-wiggle font-medium">
